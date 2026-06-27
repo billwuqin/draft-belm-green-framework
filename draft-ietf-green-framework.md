@@ -129,8 +129,6 @@ Power Inlet, Power Outlet, Power Interface, Power State, Power State Set, Namepl
 Energy Efficiency, Energy Efficiency Management, Energy Saving,
 Energy-Aware Intent.
 
-
-
 This document uses the terms Power and Energy as further elaborated in {{GreenTerminology}}:
 
 - Power refers to the instantaneous rate at which a device consumes or produces electrical energy (typically expressed in watts).
